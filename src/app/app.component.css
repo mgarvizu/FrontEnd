@@ -1,0 +1,11 @@
+body{    
+    height: 100vh;
+    position: relative;
+    border: 1px solid black;
+}
+.inicial{
+    background-color: orange;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border: 2px solid black;    
+}

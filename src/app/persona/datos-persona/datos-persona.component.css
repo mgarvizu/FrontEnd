@@ -1,0 +1,16 @@
+.nombre{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.descripcion{
+    font-style: oblique;
+    font-family: fangsong;
+}
+.table{
+    padding-top: 5%;
+}
+
+.borde
+{
+    border: 1px solid black;
+}
